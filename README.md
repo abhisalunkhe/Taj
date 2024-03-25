@@ -21,4 +21,4 @@ This is a website providing detailed information about the Taj Mahal, along with
 3. To subscribe for blog updates, fill out the provided subscription form.
 
 
-# Live Demo: https://abhisalunkhe.github.io/Taj.github.io/
+# Live Demo: https://abhisalunkhe.github.io/taj/
